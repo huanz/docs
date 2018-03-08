@@ -19,7 +19,7 @@
  - [babel](https://babel.docschina.org/)
  - [typescript](https://www.tslang.cn/)
  - [webpack](https://doc.webpack-china.org/)
- - [rollup](http://www.rollupjs.com/)
+ - [rollup](https://rollupjs.org/guide/zh/)
  - [parcel](https://www.parceljs.cn/)
  - [gulp](https://www.gulpjs.com.cn/)
  - [lodash](https://www.lodashjs.com/)
